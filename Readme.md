@@ -211,4 +211,4 @@ npm run test:watch
 
 ![image description](./public/images/test.png)
 
-Note: In order to test the Bonus Solution please comment out this code here inside the [AthleteDataProcessor.ts](./src/AthleteDataProcessor.ts), also the bonus code does not cover all the test cases keeping the timeline and time in mind to kick of things.😊
+Note: In order to test the Bonus Solution please comment out this code here inside the [AthleteDataProcessor.ts](https://github.com/Milan-960/Athlete-data-processor/blob/master/src/AthleteDataProcessor.ts#L87), also the bonus code does not cover all the test cases keeping the timeline and time in mind to kick of things.😊
