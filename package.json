@@ -5,7 +5,9 @@
   "description": "",
   "license": "ISC",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
     "build": "tsc",
     "start": "ts-node src/index.ts",
     "dev": "ts-node src/index.ts"
